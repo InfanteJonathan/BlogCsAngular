@@ -1,0 +1,6 @@
+@BlogCsAngular_HostAddress = http://localhost:5013
+
+GET {{BlogCsAngular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
